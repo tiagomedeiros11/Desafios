@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    
+    background-color:#22212C;
+    height: 900px;
+
+}
+
+.priemiro{
+    border: 2px solid black;
+    display: contents;
+}
